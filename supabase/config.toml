@@ -1,0 +1,22 @@
+project_id = "hlblzdlhjtnqmusiapeo"
+
+[functions.merge-images]
+verify_jwt = false
+
+[functions.generate-model]
+verify_jwt = false
+
+[functions.generate-clothing]
+verify_jwt = false
+
+[functions.generate-marketplace-content]
+verify_jwt = false
+
+[functions.generate-color-variations]
+verify_jwt = false
+
+[functions.generate-pose-pack]
+verify_jwt = false
+
+[functions.extract-clothing]
+verify_jwt = false
